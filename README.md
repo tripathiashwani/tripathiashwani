@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django,DRF**
 
-- 💬 Ask me about **Python,Django,DRF ,Vue.js**
+- 💬 Ask me about **Python,Django,DRF ,Vue.js,Redis, Celery, Docker**
 
 - 📫 How to reach me **tashwani475@gmail.com**
 
