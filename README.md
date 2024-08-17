@@ -2,9 +2,9 @@
 <h3 align="center">A passionate backend developer from India</h3>
 <!-- <img align="right" alt="coding" width="200" src="https://www.kth.se/polopoly_fs/1.678575.1600721239!/image/Computer%20Science.jpg" -->
 
-- 🌱 I’m currently learning **Django,DRF**
+- 🌱 I’m currently learning **Node, Express, Golang, Kubernetes**
 
-- 💬 Ask me about **Python,Django,DRF ,Vue.js,Redis, Celery, Docker**
+- 💬 Ask me about **Python,Django, DRF, Vue.js, React, Node, Express, Redis, Celery, Docker**
 
 - 📫 How to reach me **tashwani475@gmail.com**
 
