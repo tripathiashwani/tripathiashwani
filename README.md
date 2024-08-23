@@ -7,7 +7,7 @@
   <ul>
     <li>**Frontend:** Vue.js, React</li>
     <li>**Backend:** Python, Django, DRF, Node, Express</li>
-    <li>**Tools:** Redis, Celery, Docker</li>
+    <li>**Tools:** Redis, Celery, Docker, Nginx, Kafka, Postman</li>
     <li>**Databases:** PostgreSQL, MySQL, MongoDB</li>
   </ul>
 
