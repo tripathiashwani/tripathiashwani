@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashwani Tripathi</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
-
-- 🌱 I’m currently learning **Node, Express, Golang, Kubernetes**
+<h3 align="center">A passionate Fullstack developer </h3>
 
 - 💬 Ask me about:
   <ul>
-    <li>**Frontend:** Vue.js, React</li>
-    <li>**Backend:** Python, Django, DRF, Node, Express</li>
+    <li>**Frontend:** Vue.js, React, Angular</li>
+    <li>**Backend:** Python, Django, DRF, Node, Express, FastAPI</li>
     <li>**Tools:** Redis, Celery, Docker, Nginx, Kafka, Postman</li>
     <li>**Databases:** PostgreSQL, MySQL, MongoDB</li>
   </ul>
