@@ -3,6 +3,9 @@
 
 - 💬 Ask me about:
   <ul>
+    <li>**AI Automation:** LangChain, LangGraph, CrewAI, AutoGen, MCP (Model Context Protocol), 
+ OpenAI Agents SDK, 
+ Tool/Function Calling, RAG, Prompt Engineering, \\ & OpenAI, Google Gemini, Claude API</li>
     <li>**Frontend:** Vue.js, React, Angular</li>
     <li>**Backend:** Python, Django, DRF, Node, Express, FastAPI</li>
     <li>**Tools:** Redis, Celery, Docker, Nginx, Kafka, Postman</li>
